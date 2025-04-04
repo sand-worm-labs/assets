@@ -1,0 +1,28 @@
+{
+    "name": "Mina Protocol",
+    "type": "coin",
+    "symbol": "MINA",
+    "decimals": 9,
+    "website": "https://minaprotocol.com/",
+    "description": "Mina is a lightweight blockchain protocol that leverages recursive zero-knowledge proofs to achieve an extremely small and scalable blockchain.",
+    "explorer": "https://minaexplorer.com/",
+    "status": "active",
+    "rpc_url": "https://rpc.mainnet.minaexplorer.com",
+    "denom": "minas",
+    "lcd_url": "https://api.mainnet.minaexplorer.com",
+    "hrp": "mina",
+    "links": [
+      {
+        "name": "github",
+        "url": "https://github.com/MinaProtocol"
+      },
+      {
+        "name": "whitepaper",
+        "url": "https://minaprotocol.com/whitepaper/"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/minaprotocol"
+      }
+    ]
+  }
