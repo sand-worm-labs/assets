@@ -1,1 +1,29 @@
 
+{
+  "name": "MCLM",
+  "type": "coin",
+  "symbol": "MCLM",
+  "decimals": 6,
+  "website": "https://example.com", 
+  "description": "MCLM is a token used for [insert purpose here] in the [insert ecosystem/project name].",
+  "explorer": "https://example-explorer.com/mclm",
+  "status": "active",
+  "rpc_url": "https://rpc.mclm.org:443",
+  "denom": "umclm",
+  "lcd_url": "https://rest.mclm.org:443",
+  "hrp": "mclm",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/mclm-project"
+    },
+    {
+      "name": "whitepaper",
+      "url": "https://docs.mclm.org/whitepaper"
+    },
+    {
+      "name": "x",
+      "url": "https://x.com/mclm_project"
+    }
+  ]
+}
